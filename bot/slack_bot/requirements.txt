@@ -1,0 +1,6 @@
+slack
+slackclient
+requests
+sqlalchemy
+psycopg2-binary
+pandas
